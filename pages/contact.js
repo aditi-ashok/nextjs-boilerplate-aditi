@@ -17,26 +17,15 @@ export default function Home() {
       <main className={styles.main}>
         <div className={styles.description}>
           <h1>
-            About Aditi
+            Contact Info
           </h1>
         </div>
 
-        <div className={styles.center}>
-          <Image
-            className={styles.logo}
-            src="/aditi_and_chai.png"
-            alt="Chai"
-            width={300}
-            height={350}
-            priority
-          />
-        </div>
 
         <div className={styles.description}>
           <h2>
-          I am a Solutions Consultant with software industry experience in both sales and implementation. 
-          I am passionate about using technology to solve business problems.
-          Currently, I work at Google while also completing my masters in Integrated Design, Business, and Technology at USC.
+            Email: aditiash@usc.edu
+            LinkedIn: @aditiashok
           </h2>
         </div>
 
