@@ -59,10 +59,9 @@ export default function Home() {
               Contact <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
-              Find Aditi's contact information
+              Aditi Ashok contact information
             </p>
           </a>
-
           <a
             href="gallery"
             className={styles.card}
@@ -73,7 +72,7 @@ export default function Home() {
               Gallery <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
-              See Aditi's work
+              The work of Aditi Ashok
             </p>
           </a>
 
